@@ -1,0 +1,34 @@
+_repo: Az-akarat-szabads-g-r-l_42242
+_version: 0.1.0
+alternative_title: Über die Freiheit des menschlichen Willens. Hungarian
+contributor:
+  translator:
+    agent_name: Szabó, Károly
+    alias: Szabo, Karoly
+    gutenberg_agent_id: '41591'
+    url: http://www.gutenberg.org/2009/agents/41591
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Schopenhauer, Arthur
+    birthdate: 1788
+    deathdate: 1860
+    gutenberg_agent_id: '3648'
+    url: http://www.gutenberg.org/2009/agents/3648
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Schopenhauer
+description: ''
+gutenberg_issued: '2013-03-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42242'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Free will and determinism'
+title: Az akarat szabadságáról
+url: http://www.gutenberg.org/ebooks/42242
