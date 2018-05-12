@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3648
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Schopenhauer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42242#Az-akarat-szabads-g-r-l
 gutenberg_issued: '2013-03-02'
 gutenberg_type: Text
 identifiers:
